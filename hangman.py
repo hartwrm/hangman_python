@@ -27,7 +27,7 @@ def welcome():
     print("Welcome" , name)
     print("---------------")
     print("Play hangman, you get 10 attempts to guess the word.")
-    print(word)
+    # print(word)
     
 
 #prep secret word for gameplay
